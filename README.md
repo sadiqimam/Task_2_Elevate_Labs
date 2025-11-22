@@ -1,8 +1,4 @@
 # Task_2_Elevate_Labs
-Got it! I’ll update the README so it **does NOT mention Matplotlib or Seaborn**, and only includes the tools you actually used.
-
-Here is the corrected and clean **README.md**:
-
 ---
 
 # 📊 Sales Dashboard Project
